@@ -43,14 +43,14 @@ A interface é dividida em dois painéis principais, projetados para um fluxo de
 | Painel Esquerdo (Configuração)                                                                                             | Painel Direito (Interação)                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 |                                                                        |                                                                                |
-| **É aqui que você molda sua IA.** Defina a personalidade, adicione conhecimento e crie seus botões de automação (comandos). | **É aqui que a mágica acontece.** Converse com seu assistente personalizado e use os botões que você criou para acelerar tudo. |
+| **É aqui que você molda sua IA.** Defina a personalidade, adicione conhecimento, defina variáveis e crie seus botões de automação (comandos). | **É aqui que a mágica acontece.** Converse com seu assistente personalizado e use os botões que você criou para acelerar tudo. |
 
 <br>
 
 ### Passo 1: Defina a Base (Painel Esquerdo)
 1.  **Personalidade:** Diga à IA quem ela é. Ex: `Você é um roteirista de Hollywood especialista em diálogos curtos e impactantes.`
 2.  **Conhecimento:** Cole o contexto. Ex: `O resumo de um livro ou a transcrição de uma reunião.`
-3.  **Fatores de Persistência:** Adicione regras fixas. Ex: `Tópico atual: Ficção Científica. Sempre use um tom sarcástico.`
+3.  **Fatores de Persistência:** Adicione regras fixas ou defina variáveis. Ex: `Tópico atual: Ficção Científica. Sempre use um tom sarcástico.`
 4.  Clique em **"Salvar Configurações Gerais"**.
 
 ### Passo 2: Crie Atalhos (Painel Esquerdo)
