@@ -5,6 +5,8 @@ Crie seu próprio assistente de IA personalizado, sem a necessidade de código. 
 Acesse o APP: https://gemini.google.com/share/6234af6cbbd8
 
 ![](assets/flashyagent.png)
+![](assets/comando.png)
+![](assets/comando-preenchido.png)
 ---
 
 ## 🚀 Sobre o Projeto
@@ -16,7 +18,7 @@ Acesse o APP: https://gemini.google.com/share/6234af6cbbd8
 *   **Desenvolvedores:** Tenha um parceiro de programação que gera boilerplate, explica trechos de código ou formata dados, tudo com base nas suas regras.
 *   **Profissionais:** Automatize a escrita de e-mails, relatórios ou a análise de documentos.
 
-A principal vantagem é a **persistência e personalização**. Configure uma vez e use para sempre, com todos os seus dados e preferências salvos na nuvem com o Firebase.
+A principal vantagem é a **persistência e personalização**. Configure uma vez e use até o fim da sessão.
 
 ---
 
