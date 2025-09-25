@@ -4,7 +4,7 @@ Crie seu próprio assistente de IA personalizado, sem a necessidade de código. 
 
 Acesse o APP: https://gemini.google.com/share/6234af6cbbd8
 
-/flashyagent.png
+![](flashyagent.png)
 ---
 
 ## 🚀 Sobre o Projeto
