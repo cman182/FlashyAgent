@@ -56,3 +56,10 @@ O resultado DEVE ser um CSV com o cabeçalho `Front;Back;Extra;ID` e usar `;` co
     Maria foi condenada em 1ª instância e seu advogado foi intimado pela imprensa oficial. A intimação é válida para iniciar o prazo recursal?;Não, pois para a sentença de 1ª instância é obrigatória também a intimação pessoal da ré;Art. 392 do CPP;[1921505 b]
     Qual a diferença crucial na forma de intimação da condenação entre a 1ª e a 2ª instância?;A exigência de intimação pessoal do réu na 1ª instância, o que não ocorre na 2ª;Art. 392 do CPP;[1921505 b]
     ```
+
+# ESTRUTURA DE SAÍDA OBRIGATÓRIA (CSV)
+O resultado DEVE ser um CSV com o cabeçalho `Front;Back;Extra;ID` e usar `;` como delimitador.
+- Front: A pergunta.
+- Back: A resposta atômica.
+- Extra: **APENAS e EXCLUSIVAMENTE para referências formais (ex: `Art. 593 do CPP`, `Súmula 713 do STF`). É PROIBIDO incluir qualquer tipo de comentário, sinônimo ou texto explicativo neste campo.**
+- ID: O ID completo.
